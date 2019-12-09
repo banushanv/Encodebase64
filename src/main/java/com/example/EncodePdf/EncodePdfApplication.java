@@ -45,7 +45,7 @@ public class EncodePdfApplication {
                   {"23", "ghi", "fsa", "dcjru"},
                   {"33", "ghi", "fsa", "dcjru"},
                   {"43", "ghi", "fsa", "dcjru"},
-                  {"43", "ghi", "fsa", "dcjru"}
+                  {"454", "ghi", "fsa", "dcjru"}
           };
           Document document = new Document(PageSize.LETTER.rotate());
          
